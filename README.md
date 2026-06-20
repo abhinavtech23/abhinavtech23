@@ -98,15 +98,6 @@
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|--------|------------|---------|
-| Machine Learning | ████████░░ Advanced | Supervised / Unsupervised, Feature Engineering, Model Evaluation |
-| Deep Learning | ███████░░░ Proficient | CNNs, RNNs, Transformers, Transfer Learning |
-| Natural Language Processing | ██████░░░░ Intermediate | Text Classification, Embeddings, LLM Integration |
-| Computer Vision | ██████░░░░ Intermediate | Object Detection, Image Segmentation, OpenCV |
-| MLOps & Pipelines | █████░░░░░ Developing | Model Serving, Data Versioning, Experiment Tracking |
-| Vector Search & Retrieval | █████░░░░░ Developing | HNSW, KD-Trees, Embeddings Databases |
-
 </div>
 
 ---
