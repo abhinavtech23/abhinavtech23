@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Electronics%20Engineering-2nd%20Year-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Electronics%20Engineering-3rd%20Year-7C3AED?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/Kanpur%2C%20India-4C1D95?style=flat-square" />
 </p>
